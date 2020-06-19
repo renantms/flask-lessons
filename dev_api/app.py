@@ -7,11 +7,11 @@ developers = [
     {   
         "id": "0",
         "name": "Renan",
-        "habilities":["Python", "Flask"]
+        "abilities":["Python", "Flask"]
     },{
         "id": "1",
         "name": "Thomaz",
-        "habilities":["Python", "Django"]
+        "abilities":["Python", "Django"]
     }
 ]
 
